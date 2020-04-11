@@ -1,0 +1,9 @@
+D:\Training\net\OOP\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+D:\Training\net\OOP\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+D:\Training\net\OOP\ACM\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.cache
+D:\Training\net\OOP\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+D:\Training\net\OOP\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+D:\Training\net\OOP\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+D:\Training\net\OOP\ACM\ACM.BL\bin\Debug\Acme.Common.dll
+D:\Training\net\OOP\ACM\ACM.BL\bin\Debug\Acme.Common.pdb
+D:\Training\net\OOP\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CopyComplete
